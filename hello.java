@@ -7,6 +7,7 @@ public static void main(String args[]){
     int number;
     Scanner sc=new Scanner(System.in);
     System.out.println("Enter a number to check it's parity>>");
+    num=nextInt();
 }
 
 }
